@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\01. Inheritance\Solutions\05. Stack of Strings\bin\Debug\net6.0\05. Stack of Strings.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\01. Inheritance\Solutions\05. Stack of Strings\bin\Debug\net6.0\05. Stack of Strings.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\01. Inheritance\Solutions\05. Stack of Strings\bin\Debug\net6.0\05. Stack of Strings.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\01. Inheritance\Solutions\05. Stack of Strings\bin\Debug\net6.0\05. Stack of Strings.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\01. Inheritance\Solutions\05. Stack of Strings\bin\Debug\net6.0\05. Stack of Strings.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\01. Inheritance\Solutions\05. Stack of Strings\obj\Debug\net6.0\05. Stack of Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\01. Inheritance\Solutions\05. Stack of Strings\obj\Debug\net6.0\05. Stack of Strings.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\01. Inheritance\Solutions\05. Stack of Strings\obj\Debug\net6.0\05. Stack of Strings.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\01. Inheritance\Solutions\05. Stack of Strings\obj\Debug\net6.0\05. Stack of Strings.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\01. Inheritance\Solutions\05. Stack of Strings\obj\Debug\net6.0\05. Stack of Strings.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\01. Inheritance\Solutions\05. Stack of Strings\obj\Debug\net6.0\05. Stack of Strings.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\01. Inheritance\Solutions\05. Stack of Strings\obj\Debug\net6.0\refint\05. Stack of Strings.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\01. Inheritance\Solutions\05. Stack of Strings\obj\Debug\net6.0\05. Stack of Strings.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\01. Inheritance\Solutions\05. Stack of Strings\obj\Debug\net6.0\05. Stack of Strings.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\01. Inheritance\Solutions\05. Stack of Strings\obj\Debug\net6.0\ref\05. Stack of Strings.dll
