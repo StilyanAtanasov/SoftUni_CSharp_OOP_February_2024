@@ -1,0 +1,9 @@
+# Ignore Word and PDF files
+*.docx
+*.pdf
+
+# Ignore DotSettings.user files
+**/*.DotSettings.user
+
+# Exclude .vs folders
+**/.vs/
