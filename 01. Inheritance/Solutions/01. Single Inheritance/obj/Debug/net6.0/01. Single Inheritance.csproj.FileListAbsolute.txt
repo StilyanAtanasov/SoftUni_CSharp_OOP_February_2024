@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\01. Inheritance\Solutions\01. Single Inheritance\bin\Debug\net6.0\01. Single Inheritance.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\01. Inheritance\Solutions\01. Single Inheritance\bin\Debug\net6.0\01. Single Inheritance.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\01. Inheritance\Solutions\01. Single Inheritance\bin\Debug\net6.0\01. Single Inheritance.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\01. Inheritance\Solutions\01. Single Inheritance\bin\Debug\net6.0\01. Single Inheritance.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\01. Inheritance\Solutions\01. Single Inheritance\bin\Debug\net6.0\01. Single Inheritance.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\01. Inheritance\Solutions\01. Single Inheritance\obj\Debug\net6.0\01. Single Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\01. Inheritance\Solutions\01. Single Inheritance\obj\Debug\net6.0\01. Single Inheritance.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\01. Inheritance\Solutions\01. Single Inheritance\obj\Debug\net6.0\01. Single Inheritance.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\01. Inheritance\Solutions\01. Single Inheritance\obj\Debug\net6.0\01. Single Inheritance.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\01. Inheritance\Solutions\01. Single Inheritance\obj\Debug\net6.0\01. Single Inheritance.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\01. Inheritance\Solutions\01. Single Inheritance\obj\Debug\net6.0\01. Single Inheritance.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\01. Inheritance\Solutions\01. Single Inheritance\obj\Debug\net6.0\refint\01. Single Inheritance.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\01. Inheritance\Solutions\01. Single Inheritance\obj\Debug\net6.0\01. Single Inheritance.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\01. Inheritance\Solutions\01. Single Inheritance\obj\Debug\net6.0\01. Single Inheritance.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\01. Inheritance\Solutions\01. Single Inheritance\obj\Debug\net6.0\ref\01. Single Inheritance.dll
