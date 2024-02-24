@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\02. Zoo\bin\Debug\net6.0\02. Zoo.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\02. Zoo\bin\Debug\net6.0\02. Zoo.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\02. Zoo\bin\Debug\net6.0\02. Zoo.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\02. Zoo\bin\Debug\net6.0\02. Zoo.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\02. Zoo\bin\Debug\net6.0\02. Zoo.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\02. Zoo\obj\Debug\net6.0\02. Zoo.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\02. Zoo\obj\Debug\net6.0\02. Zoo.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\02. Zoo\obj\Debug\net6.0\02. Zoo.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\02. Zoo\obj\Debug\net6.0\02. Zoo.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\02. Zoo\obj\Debug\net6.0\02. Zoo.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\02. Zoo\obj\Debug\net6.0\02. Zoo.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\02. Zoo\obj\Debug\net6.0\refint\02. Zoo.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\02. Zoo\obj\Debug\net6.0\02. Zoo.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\02. Zoo\obj\Debug\net6.0\02. Zoo.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\02. Zoo\obj\Debug\net6.0\ref\02. Zoo.dll

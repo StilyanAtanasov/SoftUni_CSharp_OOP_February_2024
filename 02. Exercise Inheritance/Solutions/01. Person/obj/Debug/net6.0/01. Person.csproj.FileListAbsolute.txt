@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\01. Person\bin\Debug\net6.0\01. Person.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\01. Person\bin\Debug\net6.0\01. Person.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\01. Person\bin\Debug\net6.0\01. Person.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\01. Person\bin\Debug\net6.0\01. Person.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\01. Person\bin\Debug\net6.0\01. Person.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\01. Person\obj\Debug\net6.0\01. Person.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\01. Person\obj\Debug\net6.0\01. Person.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\01. Person\obj\Debug\net6.0\01. Person.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\01. Person\obj\Debug\net6.0\01. Person.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\01. Person\obj\Debug\net6.0\01. Person.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\01. Person\obj\Debug\net6.0\01. Person.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\01. Person\obj\Debug\net6.0\refint\01. Person.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\01. Person\obj\Debug\net6.0\01. Person.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\01. Person\obj\Debug\net6.0\01. Person.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\01. Person\obj\Debug\net6.0\ref\01. Person.dll
