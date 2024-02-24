@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\03. Players and Monsters\bin\Debug\net6.0\03. Players and Monsters.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\03. Players and Monsters\bin\Debug\net6.0\03. Players and Monsters.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\03. Players and Monsters\bin\Debug\net6.0\03. Players and Monsters.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\03. Players and Monsters\bin\Debug\net6.0\03. Players and Monsters.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\03. Players and Monsters\bin\Debug\net6.0\03. Players and Monsters.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\03. Players and Monsters\obj\Debug\net6.0\03. Players and Monsters.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\03. Players and Monsters\obj\Debug\net6.0\03. Players and Monsters.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\03. Players and Monsters\obj\Debug\net6.0\03. Players and Monsters.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\03. Players and Monsters\obj\Debug\net6.0\03. Players and Monsters.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\03. Players and Monsters\obj\Debug\net6.0\03. Players and Monsters.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\03. Players and Monsters\obj\Debug\net6.0\03. Players and Monsters.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\03. Players and Monsters\obj\Debug\net6.0\refint\03. Players and Monsters.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\03. Players and Monsters\obj\Debug\net6.0\03. Players and Monsters.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\03. Players and Monsters\obj\Debug\net6.0\03. Players and Monsters.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\03. Players and Monsters\obj\Debug\net6.0\ref\03. Players and Monsters.dll
