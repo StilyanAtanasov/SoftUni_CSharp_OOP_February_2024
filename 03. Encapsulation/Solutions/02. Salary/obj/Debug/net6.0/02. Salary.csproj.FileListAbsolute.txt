@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\02. Salary\bin\Debug\net6.0\02. Salary.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\02. Salary\bin\Debug\net6.0\02. Salary.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\02. Salary\bin\Debug\net6.0\02. Salary.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\02. Salary\bin\Debug\net6.0\02. Salary.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\02. Salary\bin\Debug\net6.0\02. Salary.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\02. Salary\obj\Debug\net6.0\02. Salary.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\02. Salary\obj\Debug\net6.0\02. Salary.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\02. Salary\obj\Debug\net6.0\02. Salary.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\02. Salary\obj\Debug\net6.0\02. Salary.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\02. Salary\obj\Debug\net6.0\02. Salary.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\02. Salary\obj\Debug\net6.0\02. Salary.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\02. Salary\obj\Debug\net6.0\refint\02. Salary.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\02. Salary\obj\Debug\net6.0\02. Salary.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\02. Salary\obj\Debug\net6.0\02. Salary.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\02. Salary\obj\Debug\net6.0\ref\02. Salary.dll
