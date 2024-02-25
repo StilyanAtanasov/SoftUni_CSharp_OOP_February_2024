@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\01. Persons\bin\Debug\net6.0\01. Persons.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\01. Persons\bin\Debug\net6.0\01. Persons.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\01. Persons\bin\Debug\net6.0\01. Persons.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\01. Persons\bin\Debug\net6.0\01. Persons.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\01. Persons\bin\Debug\net6.0\01. Persons.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\01. Persons\obj\Debug\net6.0\01. Persons.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\01. Persons\obj\Debug\net6.0\01. Persons.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\01. Persons\obj\Debug\net6.0\01. Persons.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\01. Persons\obj\Debug\net6.0\01. Persons.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\01. Persons\obj\Debug\net6.0\01. Persons.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\01. Persons\obj\Debug\net6.0\01. Persons.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\01. Persons\obj\Debug\net6.0\refint\01. Persons.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\01. Persons\obj\Debug\net6.0\01. Persons.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\01. Persons\obj\Debug\net6.0\01. Persons.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\01. Persons\obj\Debug\net6.0\ref\01. Persons.dll
