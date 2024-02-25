@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\05. Restaurant\bin\Debug\net6.0\05. Restaurant.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\05. Restaurant\bin\Debug\net6.0\05. Restaurant.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\05. Restaurant\bin\Debug\net6.0\05. Restaurant.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\05. Restaurant\bin\Debug\net6.0\05. Restaurant.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\05. Restaurant\bin\Debug\net6.0\05. Restaurant.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\05. Restaurant\obj\Debug\net6.0\05. Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\05. Restaurant\obj\Debug\net6.0\05. Restaurant.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\05. Restaurant\obj\Debug\net6.0\05. Restaurant.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\05. Restaurant\obj\Debug\net6.0\05. Restaurant.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\05. Restaurant\obj\Debug\net6.0\05. Restaurant.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\05. Restaurant\obj\Debug\net6.0\05. Restaurant.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\05. Restaurant\obj\Debug\net6.0\refint\05. Restaurant.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\05. Restaurant\obj\Debug\net6.0\05. Restaurant.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\05. Restaurant\obj\Debug\net6.0\05. Restaurant.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\02. Exercise Inheritance\Solutions\05. Restaurant\obj\Debug\net6.0\ref\05. Restaurant.dll
