@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\03. Validation\bin\Debug\net6.0\03. Validation.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\03. Validation\bin\Debug\net6.0\03. Validation.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\03. Validation\bin\Debug\net6.0\03. Validation.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\03. Validation\bin\Debug\net6.0\03. Validation.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\03. Validation\bin\Debug\net6.0\03. Validation.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\03. Validation\obj\Debug\net6.0\03. Validation.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\03. Validation\obj\Debug\net6.0\03. Validation.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\03. Validation\obj\Debug\net6.0\03. Validation.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\03. Validation\obj\Debug\net6.0\03. Validation.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\03. Validation\obj\Debug\net6.0\03. Validation.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\03. Validation\obj\Debug\net6.0\03. Validation.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\03. Validation\obj\Debug\net6.0\refint\03. Validation.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\03. Validation\obj\Debug\net6.0\03. Validation.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\03. Validation\obj\Debug\net6.0\03. Validation.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\03. Validation\obj\Debug\net6.0\ref\03. Validation.dll
