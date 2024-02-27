@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\04. Team\obj\Debug\net6.0\04. Team.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\04. Team\obj\Debug\net6.0\04. Team.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\04. Team\obj\Debug\net6.0\04. Team.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\04. Team\obj\Debug\net6.0\04. Team.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\04. Team\obj\Debug\net6.0\04. Team.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\04. Team\bin\Debug\net6.0\04. Team.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\04. Team\bin\Debug\net6.0\04. Team.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\04. Team\bin\Debug\net6.0\04. Team.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\04. Team\bin\Debug\net6.0\04. Team.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\04. Team\bin\Debug\net6.0\04. Team.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\04. Team\obj\Debug\net6.0\04. Team.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\04. Team\obj\Debug\net6.0\refint\04. Team.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\04. Team\obj\Debug\net6.0\04. Team.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\04. Team\obj\Debug\net6.0\04. Team.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\03. Encapsulation\Solutions\04. Team\obj\Debug\net6.0\ref\04. Team.dll
