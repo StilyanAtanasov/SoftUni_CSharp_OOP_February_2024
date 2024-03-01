@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02. Animal Farm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7c80db336a60e2e8389ac62b5b1f125d066a4ea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d6b397b680a7541075f4204f266151c6bd80a32")]
 [assembly: System.Reflection.AssemblyProductAttribute("02. Animal Farm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02. Animal Farm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

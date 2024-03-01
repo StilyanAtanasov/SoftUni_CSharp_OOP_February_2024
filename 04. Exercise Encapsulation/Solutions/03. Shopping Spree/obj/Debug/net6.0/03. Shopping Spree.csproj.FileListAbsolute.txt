@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\03. Shopping Spree\bin\Debug\net6.0\03. Shopping Spree.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\03. Shopping Spree\bin\Debug\net6.0\03. Shopping Spree.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\03. Shopping Spree\bin\Debug\net6.0\03. Shopping Spree.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\03. Shopping Spree\bin\Debug\net6.0\03. Shopping Spree.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\03. Shopping Spree\bin\Debug\net6.0\03. Shopping Spree.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\03. Shopping Spree\obj\Debug\net6.0\03. Shopping Spree.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\03. Shopping Spree\obj\Debug\net6.0\03. Shopping Spree.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\03. Shopping Spree\obj\Debug\net6.0\03. Shopping Spree.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\03. Shopping Spree\obj\Debug\net6.0\03. Shopping Spree.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\03. Shopping Spree\obj\Debug\net6.0\03. Shopping Spree.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\03. Shopping Spree\obj\Debug\net6.0\03. Shopping Spree.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\03. Shopping Spree\obj\Debug\net6.0\refint\03. Shopping Spree.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\03. Shopping Spree\obj\Debug\net6.0\03. Shopping Spree.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\03. Shopping Spree\obj\Debug\net6.0\03. Shopping Spree.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\03. Shopping Spree\obj\Debug\net6.0\ref\03. Shopping Spree.dll
