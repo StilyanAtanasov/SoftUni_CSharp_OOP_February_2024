@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\02. Animal Farm\bin\Debug\net6.0\02. Animal Farm.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\02. Animal Farm\bin\Debug\net6.0\02. Animal Farm.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\02. Animal Farm\bin\Debug\net6.0\02. Animal Farm.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\02. Animal Farm\bin\Debug\net6.0\02. Animal Farm.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\02. Animal Farm\bin\Debug\net6.0\02. Animal Farm.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\02. Animal Farm\obj\Debug\net6.0\02. Animal Farm.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\02. Animal Farm\obj\Debug\net6.0\02. Animal Farm.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\02. Animal Farm\obj\Debug\net6.0\02. Animal Farm.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\02. Animal Farm\obj\Debug\net6.0\02. Animal Farm.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\02. Animal Farm\obj\Debug\net6.0\02. Animal Farm.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\02. Animal Farm\obj\Debug\net6.0\02. Animal Farm.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\02. Animal Farm\obj\Debug\net6.0\refint\02. Animal Farm.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\02. Animal Farm\obj\Debug\net6.0\02. Animal Farm.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\02. Animal Farm\obj\Debug\net6.0\02. Animal Farm.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\02. Animal Farm\obj\Debug\net6.0\ref\02. Animal Farm.dll

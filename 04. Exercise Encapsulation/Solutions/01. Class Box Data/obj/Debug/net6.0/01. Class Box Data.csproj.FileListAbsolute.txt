@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\01. Class Box Data\bin\Debug\net6.0\01. Class Box Data.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\01. Class Box Data\bin\Debug\net6.0\01. Class Box Data.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\01. Class Box Data\bin\Debug\net6.0\01. Class Box Data.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\01. Class Box Data\bin\Debug\net6.0\01. Class Box Data.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\01. Class Box Data\bin\Debug\net6.0\01. Class Box Data.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\01. Class Box Data\obj\Debug\net6.0\01. Class Box Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\01. Class Box Data\obj\Debug\net6.0\01. Class Box Data.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\01. Class Box Data\obj\Debug\net6.0\01. Class Box Data.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\01. Class Box Data\obj\Debug\net6.0\01. Class Box Data.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\01. Class Box Data\obj\Debug\net6.0\01. Class Box Data.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\01. Class Box Data\obj\Debug\net6.0\01. Class Box Data.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\01. Class Box Data\obj\Debug\net6.0\refint\01. Class Box Data.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\01. Class Box Data\obj\Debug\net6.0\01. Class Box Data.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\01. Class Box Data\obj\Debug\net6.0\01. Class Box Data.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\01. Class Box Data\obj\Debug\net6.0\ref\01. Class Box Data.dll
