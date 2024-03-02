@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\05. Interfaces and Abstraction\Solutions\01. Shapes\bin\Debug\net6.0\01. Shapes.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\05. Interfaces and Abstraction\Solutions\01. Shapes\bin\Debug\net6.0\01. Shapes.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\05. Interfaces and Abstraction\Solutions\01. Shapes\bin\Debug\net6.0\01. Shapes.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\05. Interfaces and Abstraction\Solutions\01. Shapes\bin\Debug\net6.0\01. Shapes.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\05. Interfaces and Abstraction\Solutions\01. Shapes\bin\Debug\net6.0\01. Shapes.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\05. Interfaces and Abstraction\Solutions\01. Shapes\obj\Debug\net6.0\01. Shapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\05. Interfaces and Abstraction\Solutions\01. Shapes\obj\Debug\net6.0\01. Shapes.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\05. Interfaces and Abstraction\Solutions\01. Shapes\obj\Debug\net6.0\01. Shapes.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\05. Interfaces and Abstraction\Solutions\01. Shapes\obj\Debug\net6.0\01. Shapes.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\05. Interfaces and Abstraction\Solutions\01. Shapes\obj\Debug\net6.0\01. Shapes.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\05. Interfaces and Abstraction\Solutions\01. Shapes\obj\Debug\net6.0\01. Shapes.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\05. Interfaces and Abstraction\Solutions\01. Shapes\obj\Debug\net6.0\refint\01. Shapes.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\05. Interfaces and Abstraction\Solutions\01. Shapes\obj\Debug\net6.0\01. Shapes.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\05. Interfaces and Abstraction\Solutions\01. Shapes\obj\Debug\net6.0\01. Shapes.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\05. Interfaces and Abstraction\Solutions\01. Shapes\obj\Debug\net6.0\ref\01. Shapes.dll

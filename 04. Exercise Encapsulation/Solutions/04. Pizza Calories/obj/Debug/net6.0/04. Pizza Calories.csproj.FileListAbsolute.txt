@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\04. Pizza Calories\bin\Debug\net6.0\04. Pizza Calories.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\04. Pizza Calories\bin\Debug\net6.0\04. Pizza Calories.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\04. Pizza Calories\bin\Debug\net6.0\04. Pizza Calories.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\04. Pizza Calories\bin\Debug\net6.0\04. Pizza Calories.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\04. Pizza Calories\bin\Debug\net6.0\04. Pizza Calories.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\04. Pizza Calories\obj\Debug\net6.0\04. Pizza Calories.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\04. Pizza Calories\obj\Debug\net6.0\04. Pizza Calories.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\04. Pizza Calories\obj\Debug\net6.0\04. Pizza Calories.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\04. Pizza Calories\obj\Debug\net6.0\04. Pizza Calories.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\04. Pizza Calories\obj\Debug\net6.0\04. Pizza Calories.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\04. Pizza Calories\obj\Debug\net6.0\04. Pizza Calories.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\04. Pizza Calories\obj\Debug\net6.0\refint\04. Pizza Calories.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\04. Pizza Calories\obj\Debug\net6.0\04. Pizza Calories.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\04. Pizza Calories\obj\Debug\net6.0\04. Pizza Calories.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\04. Exercise Encapsulation\Solutions\04. Pizza Calories\obj\Debug\net6.0\ref\04. Pizza Calories.dll
