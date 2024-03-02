@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\05. Interfaces and Abstraction\Solutions\02. Cars\bin\Debug\net6.0\02. Cars.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\05. Interfaces and Abstraction\Solutions\02. Cars\bin\Debug\net6.0\02. Cars.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\05. Interfaces and Abstraction\Solutions\02. Cars\bin\Debug\net6.0\02. Cars.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\05. Interfaces and Abstraction\Solutions\02. Cars\bin\Debug\net6.0\02. Cars.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\05. Interfaces and Abstraction\Solutions\02. Cars\bin\Debug\net6.0\02. Cars.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\05. Interfaces and Abstraction\Solutions\02. Cars\obj\Debug\net6.0\02. Cars.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\05. Interfaces and Abstraction\Solutions\02. Cars\obj\Debug\net6.0\02. Cars.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\05. Interfaces and Abstraction\Solutions\02. Cars\obj\Debug\net6.0\02. Cars.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\05. Interfaces and Abstraction\Solutions\02. Cars\obj\Debug\net6.0\02. Cars.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\05. Interfaces and Abstraction\Solutions\02. Cars\obj\Debug\net6.0\02. Cars.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\05. Interfaces and Abstraction\Solutions\02. Cars\obj\Debug\net6.0\02. Cars.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\05. Interfaces and Abstraction\Solutions\02. Cars\obj\Debug\net6.0\refint\02. Cars.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\05. Interfaces and Abstraction\Solutions\02. Cars\obj\Debug\net6.0\02. Cars.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\05. Interfaces and Abstraction\Solutions\02. Cars\obj\Debug\net6.0\02. Cars.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\05. Interfaces and Abstraction\Solutions\02. Cars\obj\Debug\net6.0\ref\02. Cars.dll
