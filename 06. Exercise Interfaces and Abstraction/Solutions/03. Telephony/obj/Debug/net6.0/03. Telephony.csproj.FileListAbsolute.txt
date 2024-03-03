@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\03. Telephony\bin\Debug\net6.0\03. Telephony.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\03. Telephony\bin\Debug\net6.0\03. Telephony.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\03. Telephony\bin\Debug\net6.0\03. Telephony.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\03. Telephony\bin\Debug\net6.0\03. Telephony.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\03. Telephony\bin\Debug\net6.0\03. Telephony.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\03. Telephony\obj\Debug\net6.0\03. Telephony.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\03. Telephony\obj\Debug\net6.0\03. Telephony.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\03. Telephony\obj\Debug\net6.0\03. Telephony.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\03. Telephony\obj\Debug\net6.0\03. Telephony.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\03. Telephony\obj\Debug\net6.0\03. Telephony.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\03. Telephony\obj\Debug\net6.0\03. Telephony.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\03. Telephony\obj\Debug\net6.0\refint\03. Telephony.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\03. Telephony\obj\Debug\net6.0\03. Telephony.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\03. Telephony\obj\Debug\net6.0\03. Telephony.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\03. Telephony\obj\Debug\net6.0\ref\03. Telephony.dll

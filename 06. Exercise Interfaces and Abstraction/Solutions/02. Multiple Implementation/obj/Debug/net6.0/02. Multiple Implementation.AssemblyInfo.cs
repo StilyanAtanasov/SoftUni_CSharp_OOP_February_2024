@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02. Multiple Implementation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e680c1c381b92d44b603507a49dad0863940b82")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c063af4e8cd136083a2a0542680ecbe0432fcdce")]
 [assembly: System.Reflection.AssemblyProductAttribute("02. Multiple Implementation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02. Multiple Implementation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
