@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\01. Define an Interface IPerson\bin\Debug\net6.0\01. Define an Interface IPerson.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\01. Define an Interface IPerson\bin\Debug\net6.0\01. Define an Interface IPerson.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\01. Define an Interface IPerson\bin\Debug\net6.0\01. Define an Interface IPerson.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\01. Define an Interface IPerson\bin\Debug\net6.0\01. Define an Interface IPerson.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\01. Define an Interface IPerson\bin\Debug\net6.0\01. Define an Interface IPerson.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\01. Define an Interface IPerson\obj\Debug\net6.0\01. Define an Interface IPerson.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\01. Define an Interface IPerson\obj\Debug\net6.0\01. Define an Interface IPerson.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\01. Define an Interface IPerson\obj\Debug\net6.0\01. Define an Interface IPerson.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\01. Define an Interface IPerson\obj\Debug\net6.0\01. Define an Interface IPerson.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\01. Define an Interface IPerson\obj\Debug\net6.0\01. Define an Interface IPerson.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\01. Define an Interface IPerson\obj\Debug\net6.0\01. Define an Interface IPerson.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\01. Define an Interface IPerson\obj\Debug\net6.0\refint\01. Define an Interface IPerson.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\01. Define an Interface IPerson\obj\Debug\net6.0\01. Define an Interface IPerson.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\01. Define an Interface IPerson\obj\Debug\net6.0\01. Define an Interface IPerson.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\01. Define an Interface IPerson\obj\Debug\net6.0\ref\01. Define an Interface IPerson.dll

@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\02. Multiple Implementation\bin\Debug\net6.0\02. Multiple Implementation.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\02. Multiple Implementation\bin\Debug\net6.0\02. Multiple Implementation.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\02. Multiple Implementation\bin\Debug\net6.0\02. Multiple Implementation.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\02. Multiple Implementation\bin\Debug\net6.0\02. Multiple Implementation.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\02. Multiple Implementation\bin\Debug\net6.0\02. Multiple Implementation.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\02. Multiple Implementation\obj\Debug\net6.0\02. Multiple Implementation.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\02. Multiple Implementation\obj\Debug\net6.0\02. Multiple Implementation.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\02. Multiple Implementation\obj\Debug\net6.0\02. Multiple Implementation.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\02. Multiple Implementation\obj\Debug\net6.0\02. Multiple Implementation.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\02. Multiple Implementation\obj\Debug\net6.0\02. Multiple Implementation.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\02. Multiple Implementation\obj\Debug\net6.0\02. Multiple Implementation.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\02. Multiple Implementation\obj\Debug\net6.0\refint\02. Multiple Implementation.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\02. Multiple Implementation\obj\Debug\net6.0\02. Multiple Implementation.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\02. Multiple Implementation\obj\Debug\net6.0\02. Multiple Implementation.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\02. Multiple Implementation\obj\Debug\net6.0\ref\02. Multiple Implementation.dll
