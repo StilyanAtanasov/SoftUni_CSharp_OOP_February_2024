@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Multiple Implementation
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Telephony", "03. Telephony\03. Telephony.csproj", "{E97D8E71-A258-46E2-9995-5D4A6E688893}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Border Control", "04. Border Control\04. Border Control.csproj", "{C6289610-1B4E-4B1B-AD53-A76ED32DD387}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{E97D8E71-A258-46E2-9995-5D4A6E688893}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E97D8E71-A258-46E2-9995-5D4A6E688893}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E97D8E71-A258-46E2-9995-5D4A6E688893}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6289610-1B4E-4B1B-AD53-A76ED32DD387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6289610-1B4E-4B1B-AD53-A76ED32DD387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6289610-1B4E-4B1B-AD53-A76ED32DD387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6289610-1B4E-4B1B-AD53-A76ED32DD387}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
