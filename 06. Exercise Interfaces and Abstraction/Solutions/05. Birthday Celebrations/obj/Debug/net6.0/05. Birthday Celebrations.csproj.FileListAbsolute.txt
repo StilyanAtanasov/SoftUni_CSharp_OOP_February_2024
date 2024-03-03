@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\05. Birthday Celebrations\bin\Debug\net6.0\05. Birthday Celebrations.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\05. Birthday Celebrations\bin\Debug\net6.0\05. Birthday Celebrations.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\05. Birthday Celebrations\bin\Debug\net6.0\05. Birthday Celebrations.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\05. Birthday Celebrations\bin\Debug\net6.0\05. Birthday Celebrations.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\05. Birthday Celebrations\bin\Debug\net6.0\05. Birthday Celebrations.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\05. Birthday Celebrations\obj\Debug\net6.0\05. Birthday Celebrations.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\05. Birthday Celebrations\obj\Debug\net6.0\05. Birthday Celebrations.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\05. Birthday Celebrations\obj\Debug\net6.0\05. Birthday Celebrations.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\05. Birthday Celebrations\obj\Debug\net6.0\05. Birthday Celebrations.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\05. Birthday Celebrations\obj\Debug\net6.0\05. Birthday Celebrations.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\05. Birthday Celebrations\obj\Debug\net6.0\05. Birthday Celebrations.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\05. Birthday Celebrations\obj\Debug\net6.0\refint\05. Birthday Celebrations.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\05. Birthday Celebrations\obj\Debug\net6.0\05. Birthday Celebrations.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\05. Birthday Celebrations\obj\Debug\net6.0\05. Birthday Celebrations.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\05. Birthday Celebrations\obj\Debug\net6.0\ref\05. Birthday Celebrations.dll
