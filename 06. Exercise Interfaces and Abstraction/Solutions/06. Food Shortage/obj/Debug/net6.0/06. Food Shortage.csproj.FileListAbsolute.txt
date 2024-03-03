@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\06. Food Shortage\bin\Debug\net6.0\06. Food Shortage.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\06. Food Shortage\bin\Debug\net6.0\06. Food Shortage.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\06. Food Shortage\bin\Debug\net6.0\06. Food Shortage.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\06. Food Shortage\bin\Debug\net6.0\06. Food Shortage.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\06. Food Shortage\bin\Debug\net6.0\06. Food Shortage.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\06. Food Shortage\obj\Debug\net6.0\06. Food Shortage.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\06. Food Shortage\obj\Debug\net6.0\06. Food Shortage.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\06. Food Shortage\obj\Debug\net6.0\06. Food Shortage.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\06. Food Shortage\obj\Debug\net6.0\06. Food Shortage.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\06. Food Shortage\obj\Debug\net6.0\06. Food Shortage.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\06. Food Shortage\obj\Debug\net6.0\06. Food Shortage.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\06. Food Shortage\obj\Debug\net6.0\refint\06. Food Shortage.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\06. Food Shortage\obj\Debug\net6.0\06. Food Shortage.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\06. Food Shortage\obj\Debug\net6.0\06. Food Shortage.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\06. Exercise Interfaces and Abstraction\Solutions\06. Food Shortage\obj\Debug\net6.0\ref\06. Food Shortage.dll
