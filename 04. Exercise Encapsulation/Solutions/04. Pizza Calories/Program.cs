@@ -4,6 +4,8 @@ try
 {
     // Read pizza info
     string pizzaName = Console.ReadLine()!.Split()[1]; // Format: Pizza {pizzaName}
+    // ReSharper disable once RedundantAssignment
+    Pizza pizza = new Pizza(pizzaName); // Check for valid pizzaName
 
     // Read dough info
     string[] doughInfo = Console.ReadLine()!.Split();
@@ -19,7 +21,7 @@ try
     }
 
     // Initialize the pizza
-    Pizza pizza = new(pizzaName, dough, toppings);
+    pizza = new(pizzaName, dough, toppings);
 
     // Print the output
     Console.WriteLine(pizza);

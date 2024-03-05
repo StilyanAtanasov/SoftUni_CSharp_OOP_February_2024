@@ -2,13 +2,14 @@
 
 public class Pizza
 {
-    private string _name;
-    private readonly Dough _dough;
-    private readonly List<Topping> _toppings;
+    private string _name = null!;
+    private readonly Dough _dough = null!;
+    private readonly List<Topping> _toppings = null!;
 
-    public Pizza(string name, Dough dough, List<Topping> toppings)
+    public Pizza(string name) => Name = name;
+
+    public Pizza(string name, Dough dough, List<Topping> toppings) : this(name)
     {
-        _name = name;
         _dough = dough;
         _toppings = toppings;
         if (NumberOfToppings > 10) throw new ArgumentException("Number of toppings should be in range [0..10].");

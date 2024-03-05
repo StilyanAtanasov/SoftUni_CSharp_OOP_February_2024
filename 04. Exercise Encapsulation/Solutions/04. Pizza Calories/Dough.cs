@@ -12,9 +12,6 @@ public class Dough
 
     public Dough(string doughType, string bakingTechnique, double weight)
     {
-        DoughType = doughType;
-        BakingTechnique = bakingTechnique;
-        Weight = weight;
         _doughTypeCaloriesModifiers = new() {
             { "white", 1.5 },
             { "wholegrain", 1.0 }
@@ -24,6 +21,9 @@ public class Dough
             { "chewy", 1.1 },
             { "homemade", 1.0 }
         };
+        DoughType = doughType;
+        BakingTechnique = bakingTechnique;
+        Weight = weight;
     }
 
     public string DoughType

@@ -10,14 +10,14 @@ public class Topping
 
     public Topping(string toppingType, double weight)
     {
-        ToppingType = toppingType;
-        Weight = weight;
         _caloriesModifiers = new() {
             { "meat", 1.2 },
             { "veggies", 0.8 },
             { "cheese", 1.1 },
             { "sauce", 0.9 }
     };
+        ToppingType = toppingType;
+        Weight = weight;
     }
 
     public string ToppingType
