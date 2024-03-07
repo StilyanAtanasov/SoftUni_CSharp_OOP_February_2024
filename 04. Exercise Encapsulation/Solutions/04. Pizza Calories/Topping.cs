@@ -34,7 +34,7 @@ public class Topping
         get => _weight;
         private init
         {
-            if (value > 50 || value <= 0) throw new ArgumentException($"{ToppingType} weight should be in the range [1..50].");
+            if (value > 50 || value <= 0) throw new ArgumentException($"{ToppingType[0].ToString().ToUpper()}{ToppingType[1..]} weight should be in the range [1..50].");
             _weight = value;
         }
     }
