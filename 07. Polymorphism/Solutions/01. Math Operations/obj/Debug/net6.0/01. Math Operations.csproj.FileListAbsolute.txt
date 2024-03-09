@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\07. Polymorphism\Solutions\01. Math Operations\bin\Debug\net6.0\01. Math Operations.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\07. Polymorphism\Solutions\01. Math Operations\bin\Debug\net6.0\01. Math Operations.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\07. Polymorphism\Solutions\01. Math Operations\bin\Debug\net6.0\01. Math Operations.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\07. Polymorphism\Solutions\01. Math Operations\bin\Debug\net6.0\01. Math Operations.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\07. Polymorphism\Solutions\01. Math Operations\bin\Debug\net6.0\01. Math Operations.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\07. Polymorphism\Solutions\01. Math Operations\obj\Debug\net6.0\01. Math Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\07. Polymorphism\Solutions\01. Math Operations\obj\Debug\net6.0\01. Math Operations.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\07. Polymorphism\Solutions\01. Math Operations\obj\Debug\net6.0\01. Math Operations.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\07. Polymorphism\Solutions\01. Math Operations\obj\Debug\net6.0\01. Math Operations.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\07. Polymorphism\Solutions\01. Math Operations\obj\Debug\net6.0\01. Math Operations.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\07. Polymorphism\Solutions\01. Math Operations\obj\Debug\net6.0\01. Math Operations.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\07. Polymorphism\Solutions\01. Math Operations\obj\Debug\net6.0\refint\01. Math Operations.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\07. Polymorphism\Solutions\01. Math Operations\obj\Debug\net6.0\01. Math Operations.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\07. Polymorphism\Solutions\01. Math Operations\obj\Debug\net6.0\01. Math Operations.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\07. Polymorphism\Solutions\01. Math Operations\obj\Debug\net6.0\ref\01. Math Operations.dll

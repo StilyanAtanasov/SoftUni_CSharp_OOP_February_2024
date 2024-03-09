@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\07. Polymorphism\Solutions\02. Animals\bin\Debug\net6.0\02. Animals.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\07. Polymorphism\Solutions\02. Animals\bin\Debug\net6.0\02. Animals.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\07. Polymorphism\Solutions\02. Animals\bin\Debug\net6.0\02. Animals.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\07. Polymorphism\Solutions\02. Animals\bin\Debug\net6.0\02. Animals.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\07. Polymorphism\Solutions\02. Animals\bin\Debug\net6.0\02. Animals.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\07. Polymorphism\Solutions\02. Animals\obj\Debug\net6.0\02. Animals.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\07. Polymorphism\Solutions\02. Animals\obj\Debug\net6.0\02. Animals.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\07. Polymorphism\Solutions\02. Animals\obj\Debug\net6.0\02. Animals.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\07. Polymorphism\Solutions\02. Animals\obj\Debug\net6.0\02. Animals.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\07. Polymorphism\Solutions\02. Animals\obj\Debug\net6.0\02. Animals.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\07. Polymorphism\Solutions\02. Animals\obj\Debug\net6.0\02. Animals.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\07. Polymorphism\Solutions\02. Animals\obj\Debug\net6.0\refint\02. Animals.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\07. Polymorphism\Solutions\02. Animals\obj\Debug\net6.0\02. Animals.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\07. Polymorphism\Solutions\02. Animals\obj\Debug\net6.0\02. Animals.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\07. Polymorphism\Solutions\02. Animals\obj\Debug\net6.0\ref\02. Animals.dll
