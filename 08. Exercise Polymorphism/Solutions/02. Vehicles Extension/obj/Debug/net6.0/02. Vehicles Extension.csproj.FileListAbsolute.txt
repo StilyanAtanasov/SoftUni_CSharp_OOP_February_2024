@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\08. Exercise Polymorphism\Solutions\02. Vehicles Extension\bin\Debug\net6.0\02. Vehicles Extension.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\08. Exercise Polymorphism\Solutions\02. Vehicles Extension\bin\Debug\net6.0\02. Vehicles Extension.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\08. Exercise Polymorphism\Solutions\02. Vehicles Extension\bin\Debug\net6.0\02. Vehicles Extension.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\08. Exercise Polymorphism\Solutions\02. Vehicles Extension\bin\Debug\net6.0\02. Vehicles Extension.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\08. Exercise Polymorphism\Solutions\02. Vehicles Extension\bin\Debug\net6.0\02. Vehicles Extension.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\08. Exercise Polymorphism\Solutions\02. Vehicles Extension\obj\Debug\net6.0\02. Vehicles Extension.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\08. Exercise Polymorphism\Solutions\02. Vehicles Extension\obj\Debug\net6.0\02. Vehicles Extension.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\08. Exercise Polymorphism\Solutions\02. Vehicles Extension\obj\Debug\net6.0\02. Vehicles Extension.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\08. Exercise Polymorphism\Solutions\02. Vehicles Extension\obj\Debug\net6.0\02. Vehicles Extension.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\08. Exercise Polymorphism\Solutions\02. Vehicles Extension\obj\Debug\net6.0\02. Vehicles Extension.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\08. Exercise Polymorphism\Solutions\02. Vehicles Extension\obj\Debug\net6.0\02. Vehicles Extension.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\08. Exercise Polymorphism\Solutions\02. Vehicles Extension\obj\Debug\net6.0\refint\02. Vehicles Extension.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\08. Exercise Polymorphism\Solutions\02. Vehicles Extension\obj\Debug\net6.0\02. Vehicles Extension.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\08. Exercise Polymorphism\Solutions\02. Vehicles Extension\obj\Debug\net6.0\02. Vehicles Extension.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\08. Exercise Polymorphism\Solutions\02. Vehicles Extension\obj\Debug\net6.0\ref\02. Vehicles Extension.dll
