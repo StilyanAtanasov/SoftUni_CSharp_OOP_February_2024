@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\08. Exercise Polymorphism\Solutions\04. Wild Farm\obj\Debug\net6.0\04. Wild Farm.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\08. Exercise Polymorphism\Solutions\04. Wild Farm\obj\Debug\net6.0\04. Wild Farm.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\08. Exercise Polymorphism\Solutions\04. Wild Farm\obj\Debug\net6.0\04. Wild Farm.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\08. Exercise Polymorphism\Solutions\04. Wild Farm\obj\Debug\net6.0\04. Wild Farm.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\08. Exercise Polymorphism\Solutions\04. Wild Farm\obj\Debug\net6.0\04. Wild Farm.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\08. Exercise Polymorphism\Solutions\04. Wild Farm\bin\Debug\net6.0\04. Wild Farm.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\08. Exercise Polymorphism\Solutions\04. Wild Farm\bin\Debug\net6.0\04. Wild Farm.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\08. Exercise Polymorphism\Solutions\04. Wild Farm\bin\Debug\net6.0\04. Wild Farm.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\08. Exercise Polymorphism\Solutions\04. Wild Farm\bin\Debug\net6.0\04. Wild Farm.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\08. Exercise Polymorphism\Solutions\04. Wild Farm\bin\Debug\net6.0\04. Wild Farm.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\08. Exercise Polymorphism\Solutions\04. Wild Farm\obj\Debug\net6.0\04. Wild Farm.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\08. Exercise Polymorphism\Solutions\04. Wild Farm\obj\Debug\net6.0\refint\04. Wild Farm.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\08. Exercise Polymorphism\Solutions\04. Wild Farm\obj\Debug\net6.0\04. Wild Farm.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\08. Exercise Polymorphism\Solutions\04. Wild Farm\obj\Debug\net6.0\04. Wild Farm.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\08. Exercise Polymorphism\Solutions\04. Wild Farm\obj\Debug\net6.0\ref\04. Wild Farm.dll
