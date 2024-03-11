@@ -9,7 +9,7 @@ public class Bus : Vehicle
 
     public void DriveEmpty(double distance)
     {
-        double fuelNeeded = distance * FuelConsumptionInLitersPerKm;
+        double fuelNeeded = distance * (FuelConsumptionInLitersPerKm - AdditionalConsumptionWhenFull);
 
         if (FuelQuantity - fuelNeeded >= 0)
         {
