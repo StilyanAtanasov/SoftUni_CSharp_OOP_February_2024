@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\04. Sum of Integers\bin\Debug\net6.0\04. Sum of Integers.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\04. Sum of Integers\bin\Debug\net6.0\04. Sum of Integers.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\04. Sum of Integers\bin\Debug\net6.0\04. Sum of Integers.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\04. Sum of Integers\bin\Debug\net6.0\04. Sum of Integers.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\04. Sum of Integers\bin\Debug\net6.0\04. Sum of Integers.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\04. Sum of Integers\obj\Debug\net6.0\04. Sum of Integers.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\04. Sum of Integers\obj\Debug\net6.0\04. Sum of Integers.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\04. Sum of Integers\obj\Debug\net6.0\04. Sum of Integers.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\04. Sum of Integers\obj\Debug\net6.0\04. Sum of Integers.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\04. Sum of Integers\obj\Debug\net6.0\04. Sum of Integers.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\04. Sum of Integers\obj\Debug\net6.0\04. Sum of Integers.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\04. Sum of Integers\obj\Debug\net6.0\refint\04. Sum of Integers.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\04. Sum of Integers\obj\Debug\net6.0\04. Sum of Integers.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\04. Sum of Integers\obj\Debug\net6.0\04. Sum of Integers.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\04. Sum of Integers\obj\Debug\net6.0\ref\04. Sum of Integers.dll

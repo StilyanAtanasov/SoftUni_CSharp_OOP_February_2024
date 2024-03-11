@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\06. Money Transactions\bin\Debug\net6.0\06. Money Transactions.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\06. Money Transactions\bin\Debug\net6.0\06. Money Transactions.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\06. Money Transactions\bin\Debug\net6.0\06. Money Transactions.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\06. Money Transactions\bin\Debug\net6.0\06. Money Transactions.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\06. Money Transactions\bin\Debug\net6.0\06. Money Transactions.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\06. Money Transactions\obj\Debug\net6.0\06. Money Transactions.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\06. Money Transactions\obj\Debug\net6.0\06. Money Transactions.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\06. Money Transactions\obj\Debug\net6.0\06. Money Transactions.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\06. Money Transactions\obj\Debug\net6.0\06. Money Transactions.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\06. Money Transactions\obj\Debug\net6.0\06. Money Transactions.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\06. Money Transactions\obj\Debug\net6.0\06. Money Transactions.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\06. Money Transactions\obj\Debug\net6.0\refint\06. Money Transactions.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\06. Money Transactions\obj\Debug\net6.0\06. Money Transactions.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\06. Money Transactions\obj\Debug\net6.0\06. Money Transactions.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\06. Money Transactions\obj\Debug\net6.0\ref\06. Money Transactions.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02. Enter Numbers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f37a2ed2d11a4ec65d26f6ed936d5611d0a43038")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1228d32e117cfcc77ace485272c17da8f943f419")]
 [assembly: System.Reflection.AssemblyProductAttribute("02. Enter Numbers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02. Enter Numbers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
