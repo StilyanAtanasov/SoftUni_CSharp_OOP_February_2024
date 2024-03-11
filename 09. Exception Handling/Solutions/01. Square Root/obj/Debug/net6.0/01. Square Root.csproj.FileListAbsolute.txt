@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\01. Square Root\bin\Debug\net6.0\01. Square Root.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\01. Square Root\bin\Debug\net6.0\01. Square Root.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\01. Square Root\bin\Debug\net6.0\01. Square Root.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\01. Square Root\bin\Debug\net6.0\01. Square Root.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\01. Square Root\bin\Debug\net6.0\01. Square Root.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\01. Square Root\obj\Debug\net6.0\01. Square Root.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\01. Square Root\obj\Debug\net6.0\01. Square Root.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\01. Square Root\obj\Debug\net6.0\01. Square Root.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\01. Square Root\obj\Debug\net6.0\01. Square Root.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\01. Square Root\obj\Debug\net6.0\01. Square Root.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\01. Square Root\obj\Debug\net6.0\01. Square Root.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\01. Square Root\obj\Debug\net6.0\refint\01. Square Root.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\01. Square Root\obj\Debug\net6.0\01. Square Root.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\01. Square Root\obj\Debug\net6.0\01. Square Root.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\09. Exception Handling\Solutions\01. Square Root\obj\Debug\net6.0\ref\01. Square Root.dll
