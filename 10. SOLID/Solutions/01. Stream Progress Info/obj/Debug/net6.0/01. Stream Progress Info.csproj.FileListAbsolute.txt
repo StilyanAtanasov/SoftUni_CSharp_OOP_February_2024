@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\01. Stream Progress Info\obj\Debug\net6.0\01. Stream Progress Info.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\01. Stream Progress Info\obj\Debug\net6.0\01. Stream Progress Info.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\01. Stream Progress Info\obj\Debug\net6.0\01. Stream Progress Info.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\01. Stream Progress Info\obj\Debug\net6.0\01. Stream Progress Info.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\01. Stream Progress Info\obj\Debug\net6.0\01. Stream Progress Info.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\01. Stream Progress Info\bin\Debug\net6.0\01. Stream Progress Info.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\01. Stream Progress Info\bin\Debug\net6.0\01. Stream Progress Info.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\01. Stream Progress Info\bin\Debug\net6.0\01. Stream Progress Info.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\01. Stream Progress Info\bin\Debug\net6.0\01. Stream Progress Info.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\01. Stream Progress Info\bin\Debug\net6.0\01. Stream Progress Info.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\01. Stream Progress Info\obj\Debug\net6.0\01. Stream Progress Info.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\01. Stream Progress Info\obj\Debug\net6.0\refint\01. Stream Progress Info.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\01. Stream Progress Info\obj\Debug\net6.0\01. Stream Progress Info.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\01. Stream Progress Info\obj\Debug\net6.0\01. Stream Progress Info.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\01. Stream Progress Info\obj\Debug\net6.0\ref\01. Stream Progress Info.dll
