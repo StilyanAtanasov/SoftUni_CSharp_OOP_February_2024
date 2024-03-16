@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\02. Graphic Editor\bin\Debug\net6.0\02. Graphic Editor.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\02. Graphic Editor\bin\Debug\net6.0\02. Graphic Editor.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\02. Graphic Editor\bin\Debug\net6.0\02. Graphic Editor.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\02. Graphic Editor\bin\Debug\net6.0\02. Graphic Editor.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\02. Graphic Editor\bin\Debug\net6.0\02. Graphic Editor.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\02. Graphic Editor\obj\Debug\net6.0\02. Graphic Editor.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\02. Graphic Editor\obj\Debug\net6.0\02. Graphic Editor.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\02. Graphic Editor\obj\Debug\net6.0\02. Graphic Editor.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\02. Graphic Editor\obj\Debug\net6.0\02. Graphic Editor.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\02. Graphic Editor\obj\Debug\net6.0\02. Graphic Editor.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\02. Graphic Editor\obj\Debug\net6.0\02. Graphic Editor.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\02. Graphic Editor\obj\Debug\net6.0\refint\02. Graphic Editor.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\02. Graphic Editor\obj\Debug\net6.0\02. Graphic Editor.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\02. Graphic Editor\obj\Debug\net6.0\02. Graphic Editor.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\02. Graphic Editor\obj\Debug\net6.0\ref\02. Graphic Editor.dll

@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\03. Detail Printer\bin\Debug\net6.0\03. Detail Printer.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\03. Detail Printer\bin\Debug\net6.0\03. Detail Printer.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\03. Detail Printer\bin\Debug\net6.0\03. Detail Printer.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\03. Detail Printer\bin\Debug\net6.0\03. Detail Printer.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\03. Detail Printer\bin\Debug\net6.0\03. Detail Printer.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\03. Detail Printer\obj\Debug\net6.0\03. Detail Printer.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\03. Detail Printer\obj\Debug\net6.0\03. Detail Printer.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\03. Detail Printer\obj\Debug\net6.0\03. Detail Printer.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\03. Detail Printer\obj\Debug\net6.0\03. Detail Printer.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\03. Detail Printer\obj\Debug\net6.0\03. Detail Printer.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\03. Detail Printer\obj\Debug\net6.0\03. Detail Printer.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\03. Detail Printer\obj\Debug\net6.0\refint\03. Detail Printer.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\03. Detail Printer\obj\Debug\net6.0\03. Detail Printer.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\03. Detail Printer\obj\Debug\net6.0\03. Detail Printer.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\10. SOLID\Solutions\03. Detail Printer\obj\Debug\net6.0\ref\03. Detail Printer.dll
