@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\11. Exercise SOLID\Solutions\01. Logger\bin\Debug\net6.0\01. Logger.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\11. Exercise SOLID\Solutions\01. Logger\bin\Debug\net6.0\01. Logger.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\11. Exercise SOLID\Solutions\01. Logger\bin\Debug\net6.0\01. Logger.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\11. Exercise SOLID\Solutions\01. Logger\bin\Debug\net6.0\01. Logger.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\11. Exercise SOLID\Solutions\01. Logger\bin\Debug\net6.0\01. Logger.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\11. Exercise SOLID\Solutions\01. Logger\obj\Debug\net6.0\01. Logger.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\11. Exercise SOLID\Solutions\01. Logger\obj\Debug\net6.0\01. Logger.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\11. Exercise SOLID\Solutions\01. Logger\obj\Debug\net6.0\01. Logger.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\11. Exercise SOLID\Solutions\01. Logger\obj\Debug\net6.0\01. Logger.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\11. Exercise SOLID\Solutions\01. Logger\obj\Debug\net6.0\01. Logger.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\11. Exercise SOLID\Solutions\01. Logger\obj\Debug\net6.0\01. Logger.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\11. Exercise SOLID\Solutions\01. Logger\obj\Debug\net6.0\refint\01. Logger.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\11. Exercise SOLID\Solutions\01. Logger\obj\Debug\net6.0\01. Logger.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\11. Exercise SOLID\Solutions\01. Logger\obj\Debug\net6.0\01. Logger.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\11. Exercise SOLID\Solutions\01. Logger\obj\Debug\net6.0\ref\01. Logger.dll

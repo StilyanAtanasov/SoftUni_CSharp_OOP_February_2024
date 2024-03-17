@@ -1,0 +1,84 @@
+17.03.2024 г. 14:25:15 - Error - Error parsing JSON.
+17.03.2024 г. 00:00:00 - Info - User Pesho successfully registered.
+31.03.2015 г. 17:33:07 - Error - Error parsing request
+<log>
+                    <date>31.03.2015 г. 17:33:07</date>
+                    <level>ERROR</level>
+                    <message>Error parsing request</message>
+                 </log>
+                
+<log>
+   <date>26.03.2015 г. 14:08:11</date>
+   <level>INFO</level>
+   <message>Everything seems fine</message>
+</log>
+<log>
+   <date>26.03.2015 г. 14:22:13</date>
+   <level>WARNING</level>
+   <message>Warning: ping is too high - disconnect imminent</message>
+</log>
+<log>
+   <date>26.03.2015 г. 14:32:44</date>
+   <level>ERROR</level>
+   <message>Error parsing request</message>
+</log>
+<log>
+   <date>26.03.2015 г. 14:38:01</date>
+   <level>CRITICAL</level>
+   <message>No connection string found in App.config</message>
+</log>
+<log>
+   <date>26.03.2015 г. 14:39:19</date>
+   <level>FATAL</level>
+   <message>mscorlib.dll does not respond</message>
+</log>
+<log>
+   <date>26.03.2015 г. 14:08:11</date>
+   <level>INFO</level>
+   <message>Everything seems fine</message>
+</log>
+<log>
+   <date>26.03.2015 г. 14:22:13</date>
+   <level>WARNING</level>
+   <message>Warning: ping is too high - disconnect imminent</message>
+</log>
+<log>
+   <date>26.03.2015 г. 14:32:44</date>
+   <level>ERROR</level>
+   <message>Error parsing request</message>
+</log>
+<log>
+   <date>26.03.2015 г. 14:38:01</date>
+   <level>CRITICAL</level>
+   <message>No connection string found in App.config</message>
+</log>
+<log>
+   <date>26.03.2015 г. 14:39:19</date>
+   <level>FATAL</level>
+   <message>mscorlib.dll does not respond</message>
+</log>
+<log>
+   <date>26.03.2015 г. 14:08:11</date>
+   <level>INFO</level>
+   <message>Everything seems fine</message>
+</log>
+<log>
+   <date>26.03.2015 г. 14:22:13</date>
+   <level>WARNING</level>
+   <message>Warning: ping is too high - disconnect imminent</message>
+</log>
+<log>
+   <date>26.03.2015 г. 14:32:44</date>
+   <level>ERROR</level>
+   <message>Error parsing request</message>
+</log>
+<log>
+   <date>26.03.2015 г. 14:38:01</date>
+   <level>CRITICAL</level>
+   <message>No connection string found in App.config</message>
+</log>
+<log>
+   <date>26.03.2015 г. 14:39:19</date>
+   <level>FATAL</level>
+   <message>mscorlib.dll does not respond</message>
+</log>
