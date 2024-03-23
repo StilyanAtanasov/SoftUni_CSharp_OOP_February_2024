@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\05. Create Attribute\bin\Debug\net6.0\05. Create Attribute.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\05. Create Attribute\bin\Debug\net6.0\05. Create Attribute.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\05. Create Attribute\bin\Debug\net6.0\05. Create Attribute.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\05. Create Attribute\bin\Debug\net6.0\05. Create Attribute.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\05. Create Attribute\bin\Debug\net6.0\05. Create Attribute.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\05. Create Attribute\obj\Debug\net6.0\05. Create Attribute.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\05. Create Attribute\obj\Debug\net6.0\05. Create Attribute.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\05. Create Attribute\obj\Debug\net6.0\05. Create Attribute.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\05. Create Attribute\obj\Debug\net6.0\05. Create Attribute.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\05. Create Attribute\obj\Debug\net6.0\05. Create Attribute.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\05. Create Attribute\obj\Debug\net6.0\05. Create Attribute.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\05. Create Attribute\obj\Debug\net6.0\refint\05. Create Attribute.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\05. Create Attribute\obj\Debug\net6.0\05. Create Attribute.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\05. Create Attribute\obj\Debug\net6.0\05. Create Attribute.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\05. Create Attribute\obj\Debug\net6.0\ref\05. Create Attribute.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02. High Quality Mistakes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33fe0207356ec27ecc88c5cb21f0493597dcd6f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6445ed79dd2b9fbcd5658712b50789af2925bfa")]
 [assembly: System.Reflection.AssemblyProductAttribute("02. High Quality Mistakes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02. High Quality Mistakes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

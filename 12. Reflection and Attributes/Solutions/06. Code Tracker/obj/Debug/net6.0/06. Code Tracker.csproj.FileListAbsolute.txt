@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\06. Code Tracker\bin\Debug\net6.0\06. Code Tracker.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\06. Code Tracker\bin\Debug\net6.0\06. Code Tracker.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\06. Code Tracker\bin\Debug\net6.0\06. Code Tracker.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\06. Code Tracker\bin\Debug\net6.0\06. Code Tracker.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\06. Code Tracker\bin\Debug\net6.0\06. Code Tracker.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\06. Code Tracker\obj\Debug\net6.0\06. Code Tracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\06. Code Tracker\obj\Debug\net6.0\06. Code Tracker.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\06. Code Tracker\obj\Debug\net6.0\06. Code Tracker.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\06. Code Tracker\obj\Debug\net6.0\06. Code Tracker.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\06. Code Tracker\obj\Debug\net6.0\06. Code Tracker.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\06. Code Tracker\obj\Debug\net6.0\06. Code Tracker.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\06. Code Tracker\obj\Debug\net6.0\refint\06. Code Tracker.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\06. Code Tracker\obj\Debug\net6.0\06. Code Tracker.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\06. Code Tracker\obj\Debug\net6.0\06. Code Tracker.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\06. Code Tracker\obj\Debug\net6.0\ref\06. Code Tracker.dll
