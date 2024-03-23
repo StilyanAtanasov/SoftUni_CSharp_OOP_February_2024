@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\01. Stealer\obj\Debug\net6.0\01. Stealer.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\01. Stealer\obj\Debug\net6.0\01. Stealer.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\01. Stealer\obj\Debug\net6.0\01. Stealer.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\01. Stealer\obj\Debug\net6.0\01. Stealer.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\01. Stealer\obj\Debug\net6.0\01. Stealer.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\01. Stealer\bin\Debug\net6.0\01. Stealer.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\01. Stealer\bin\Debug\net6.0\01. Stealer.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\01. Stealer\bin\Debug\net6.0\01. Stealer.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\01. Stealer\bin\Debug\net6.0\01. Stealer.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\01. Stealer\bin\Debug\net6.0\01. Stealer.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\01. Stealer\obj\Debug\net6.0\01. Stealer.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\01. Stealer\obj\Debug\net6.0\refint\01. Stealer.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\01. Stealer\obj\Debug\net6.0\01. Stealer.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\01. Stealer\obj\Debug\net6.0\01. Stealer.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\01. Stealer\obj\Debug\net6.0\ref\01. Stealer.dll

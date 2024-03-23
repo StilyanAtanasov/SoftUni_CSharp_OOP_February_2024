@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\02. High Quality Mistakes\bin\Debug\net6.0\02. High Quality Mistakes.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\02. High Quality Mistakes\bin\Debug\net6.0\02. High Quality Mistakes.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\02. High Quality Mistakes\bin\Debug\net6.0\02. High Quality Mistakes.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\02. High Quality Mistakes\bin\Debug\net6.0\02. High Quality Mistakes.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\02. High Quality Mistakes\bin\Debug\net6.0\02. High Quality Mistakes.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\02. High Quality Mistakes\obj\Debug\net6.0\02. High Quality Mistakes.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\02. High Quality Mistakes\obj\Debug\net6.0\02. High Quality Mistakes.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\02. High Quality Mistakes\obj\Debug\net6.0\02. High Quality Mistakes.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\02. High Quality Mistakes\obj\Debug\net6.0\02. High Quality Mistakes.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\02. High Quality Mistakes\obj\Debug\net6.0\02. High Quality Mistakes.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\02. High Quality Mistakes\obj\Debug\net6.0\02. High Quality Mistakes.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\02. High Quality Mistakes\obj\Debug\net6.0\refint\02. High Quality Mistakes.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\02. High Quality Mistakes\obj\Debug\net6.0\02. High Quality Mistakes.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\02. High Quality Mistakes\obj\Debug\net6.0\02. High Quality Mistakes.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\02. High Quality Mistakes\obj\Debug\net6.0\ref\02. High Quality Mistakes.dll

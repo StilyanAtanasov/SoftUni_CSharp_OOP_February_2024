@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\03. Mission Private Impossible\bin\Debug\net6.0\03. Mission Private Impossible.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\03. Mission Private Impossible\bin\Debug\net6.0\03. Mission Private Impossible.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\03. Mission Private Impossible\bin\Debug\net6.0\03. Mission Private Impossible.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\03. Mission Private Impossible\bin\Debug\net6.0\03. Mission Private Impossible.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\03. Mission Private Impossible\bin\Debug\net6.0\03. Mission Private Impossible.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\03. Mission Private Impossible\obj\Debug\net6.0\03. Mission Private Impossible.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\03. Mission Private Impossible\obj\Debug\net6.0\03. Mission Private Impossible.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\03. Mission Private Impossible\obj\Debug\net6.0\03. Mission Private Impossible.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\03. Mission Private Impossible\obj\Debug\net6.0\03. Mission Private Impossible.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\03. Mission Private Impossible\obj\Debug\net6.0\03. Mission Private Impossible.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\03. Mission Private Impossible\obj\Debug\net6.0\03. Mission Private Impossible.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\03. Mission Private Impossible\obj\Debug\net6.0\refint\03. Mission Private Impossible.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\03. Mission Private Impossible\obj\Debug\net6.0\03. Mission Private Impossible.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\03. Mission Private Impossible\obj\Debug\net6.0\03. Mission Private Impossible.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\12. Reflection and Attributes\Solutions\03. Mission Private Impossible\obj\Debug\net6.0\ref\03. Mission Private Impossible.dll
