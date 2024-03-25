@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\13. Exercise Reflection and Attributes\Solutions\02. Validation Attributes\bin\Debug\net6.0\02. Validation Attributes.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\13. Exercise Reflection and Attributes\Solutions\02. Validation Attributes\bin\Debug\net6.0\02. Validation Attributes.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\13. Exercise Reflection and Attributes\Solutions\02. Validation Attributes\bin\Debug\net6.0\02. Validation Attributes.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\13. Exercise Reflection and Attributes\Solutions\02. Validation Attributes\bin\Debug\net6.0\02. Validation Attributes.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\13. Exercise Reflection and Attributes\Solutions\02. Validation Attributes\bin\Debug\net6.0\02. Validation Attributes.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\13. Exercise Reflection and Attributes\Solutions\02. Validation Attributes\obj\Debug\net6.0\02. Validation Attributes.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\13. Exercise Reflection and Attributes\Solutions\02. Validation Attributes\obj\Debug\net6.0\02. Validation Attributes.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\13. Exercise Reflection and Attributes\Solutions\02. Validation Attributes\obj\Debug\net6.0\02. Validation Attributes.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\13. Exercise Reflection and Attributes\Solutions\02. Validation Attributes\obj\Debug\net6.0\02. Validation Attributes.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\13. Exercise Reflection and Attributes\Solutions\02. Validation Attributes\obj\Debug\net6.0\02. Validation Attributes.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\13. Exercise Reflection and Attributes\Solutions\02. Validation Attributes\obj\Debug\net6.0\02. Validation Attributes.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\13. Exercise Reflection and Attributes\Solutions\02. Validation Attributes\obj\Debug\net6.0\refint\02. Validation Attributes.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\13. Exercise Reflection and Attributes\Solutions\02. Validation Attributes\obj\Debug\net6.0\02. Validation Attributes.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\13. Exercise Reflection and Attributes\Solutions\02. Validation Attributes\obj\Debug\net6.0\02. Validation Attributes.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\13. Exercise Reflection and Attributes\Solutions\02. Validation Attributes\obj\Debug\net6.0\ref\02. Validation Attributes.dll

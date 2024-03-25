@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\13. Exercise Reflection and Attributes\Solutions\01. Command Pattern\bin\Debug\net6.0\01. Command Pattern.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\13. Exercise Reflection and Attributes\Solutions\01. Command Pattern\bin\Debug\net6.0\01. Command Pattern.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\13. Exercise Reflection and Attributes\Solutions\01. Command Pattern\bin\Debug\net6.0\01. Command Pattern.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\13. Exercise Reflection and Attributes\Solutions\01. Command Pattern\bin\Debug\net6.0\01. Command Pattern.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\13. Exercise Reflection and Attributes\Solutions\01. Command Pattern\bin\Debug\net6.0\01. Command Pattern.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\13. Exercise Reflection and Attributes\Solutions\01. Command Pattern\obj\Debug\net6.0\01. Command Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\13. Exercise Reflection and Attributes\Solutions\01. Command Pattern\obj\Debug\net6.0\01. Command Pattern.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\13. Exercise Reflection and Attributes\Solutions\01. Command Pattern\obj\Debug\net6.0\01. Command Pattern.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\13. Exercise Reflection and Attributes\Solutions\01. Command Pattern\obj\Debug\net6.0\01. Command Pattern.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\13. Exercise Reflection and Attributes\Solutions\01. Command Pattern\obj\Debug\net6.0\01. Command Pattern.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\13. Exercise Reflection and Attributes\Solutions\01. Command Pattern\obj\Debug\net6.0\01. Command Pattern.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\13. Exercise Reflection and Attributes\Solutions\01. Command Pattern\obj\Debug\net6.0\refint\01. Command Pattern.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\13. Exercise Reflection and Attributes\Solutions\01. Command Pattern\obj\Debug\net6.0\01. Command Pattern.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\13. Exercise Reflection and Attributes\Solutions\01. Command Pattern\obj\Debug\net6.0\01. Command Pattern.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\13. Exercise Reflection and Attributes\Solutions\01. Command Pattern\obj\Debug\net6.0\ref\01. Command Pattern.dll
