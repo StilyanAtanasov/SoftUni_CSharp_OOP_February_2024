@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\04. Fighting Arena\bin\Debug\net6.0\04. Fighting Arena.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\04. Fighting Arena\bin\Debug\net6.0\04. Fighting Arena.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\04. Fighting Arena\bin\Debug\net6.0\04. Fighting Arena.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\04. Fighting Arena\bin\Debug\net6.0\04. Fighting Arena.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\04. Fighting Arena\bin\Debug\net6.0\04. Fighting Arena.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\04. Fighting Arena\obj\Debug\net6.0\04. Fighting Arena.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\04. Fighting Arena\obj\Debug\net6.0\04. Fighting Arena.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\04. Fighting Arena\obj\Debug\net6.0\04. Fighting Arena.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\04. Fighting Arena\obj\Debug\net6.0\04. Fighting Arena.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\04. Fighting Arena\obj\Debug\net6.0\04. Fighting Arena.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\04. Fighting Arena\obj\Debug\net6.0\04. Fighting Arena.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\04. Fighting Arena\obj\Debug\net6.0\refint\04. Fighting Arena.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\04. Fighting Arena\obj\Debug\net6.0\04. Fighting Arena.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\04. Fighting Arena\obj\Debug\net6.0\04. Fighting Arena.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\04. Fighting Arena\obj\Debug\net6.0\ref\04. Fighting Arena.dll

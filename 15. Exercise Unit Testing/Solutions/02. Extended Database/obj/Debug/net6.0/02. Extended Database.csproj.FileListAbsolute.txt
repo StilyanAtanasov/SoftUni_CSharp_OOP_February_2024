@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\02. Extended Database\bin\Debug\net6.0\02. Extended Database.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\02. Extended Database\bin\Debug\net6.0\02. Extended Database.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\02. Extended Database\bin\Debug\net6.0\02. Extended Database.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\02. Extended Database\bin\Debug\net6.0\02. Extended Database.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\02. Extended Database\bin\Debug\net6.0\02. Extended Database.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\02. Extended Database\obj\Debug\net6.0\02. Extended Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\02. Extended Database\obj\Debug\net6.0\02. Extended Database.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\02. Extended Database\obj\Debug\net6.0\02. Extended Database.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\02. Extended Database\obj\Debug\net6.0\02. Extended Database.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\02. Extended Database\obj\Debug\net6.0\02. Extended Database.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\02. Extended Database\obj\Debug\net6.0\02. Extended Database.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\02. Extended Database\obj\Debug\net6.0\refint\02. Extended Database.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\02. Extended Database\obj\Debug\net6.0\02. Extended Database.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\02. Extended Database\obj\Debug\net6.0\02. Extended Database.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\02. Extended Database\obj\Debug\net6.0\ref\02. Extended Database.dll

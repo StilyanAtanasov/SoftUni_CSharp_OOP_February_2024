@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\03. Car Manager\obj\Debug\net6.0\03. Car Manager.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\03. Car Manager\obj\Debug\net6.0\03. Car Manager.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\03. Car Manager\obj\Debug\net6.0\03. Car Manager.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\03. Car Manager\obj\Debug\net6.0\03. Car Manager.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\03. Car Manager\obj\Debug\net6.0\03. Car Manager.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\03. Car Manager\bin\Debug\net6.0\03. Car Manager.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\03. Car Manager\bin\Debug\net6.0\03. Car Manager.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\03. Car Manager\bin\Debug\net6.0\03. Car Manager.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\03. Car Manager\bin\Debug\net6.0\03. Car Manager.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\03. Car Manager\bin\Debug\net6.0\03. Car Manager.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\03. Car Manager\obj\Debug\net6.0\03. Car Manager.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\03. Car Manager\obj\Debug\net6.0\refint\03. Car Manager.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\03. Car Manager\obj\Debug\net6.0\03. Car Manager.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\03. Car Manager\obj\Debug\net6.0\03. Car Manager.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\03. Car Manager\obj\Debug\net6.0\ref\03. Car Manager.dll

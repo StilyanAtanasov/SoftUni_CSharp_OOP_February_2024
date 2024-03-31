@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\01. Database\obj\Debug\net6.0\01. Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\01. Database\obj\Debug\net6.0\01. Database.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\01. Database\obj\Debug\net6.0\01. Database.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\01. Database\obj\Debug\net6.0\01. Database.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\01. Database\obj\Debug\net6.0\01. Database.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\01. Database\bin\Debug\net6.0\01. Database.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\01. Database\bin\Debug\net6.0\01. Database.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\01. Database\bin\Debug\net6.0\01. Database.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\01. Database\bin\Debug\net6.0\01. Database.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\01. Database\bin\Debug\net6.0\01. Database.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\01. Database\obj\Debug\net6.0\01. Database.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\01. Database\obj\Debug\net6.0\refint\01. Database.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\01. Database\obj\Debug\net6.0\01. Database.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\01. Database\obj\Debug\net6.0\01. Database.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\15. Exercise Unit Testing\Solutions\01. Database\obj\Debug\net6.0\ref\01. Database.dll
