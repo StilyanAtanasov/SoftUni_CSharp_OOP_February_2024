@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\24. Regular Exam\03. Unit Tests\SocialMediaManager\bin\Debug\net6.0\SocialMediaManager.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\24. Regular Exam\03. Unit Tests\SocialMediaManager\bin\Debug\net6.0\SocialMediaManager.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\24. Regular Exam\03. Unit Tests\SocialMediaManager\bin\Debug\net6.0\SocialMediaManager.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\24. Regular Exam\03. Unit Tests\SocialMediaManager\bin\Debug\net6.0\SocialMediaManager.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\24. Regular Exam\03. Unit Tests\SocialMediaManager\bin\Debug\net6.0\SocialMediaManager.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\24. Regular Exam\03. Unit Tests\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\24. Regular Exam\03. Unit Tests\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\24. Regular Exam\03. Unit Tests\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\24. Regular Exam\03. Unit Tests\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\24. Regular Exam\03. Unit Tests\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\24. Regular Exam\03. Unit Tests\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\24. Regular Exam\03. Unit Tests\SocialMediaManager\obj\Debug\net6.0\refint\SocialMediaManager.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\24. Regular Exam\03. Unit Tests\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\24. Regular Exam\03. Unit Tests\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\24. Regular Exam\03. Unit Tests\SocialMediaManager\obj\Debug\net6.0\ref\SocialMediaManager.dll

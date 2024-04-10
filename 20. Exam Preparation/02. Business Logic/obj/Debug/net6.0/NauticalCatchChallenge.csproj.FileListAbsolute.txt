@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\20. Exam Preparation\02. Business Logic\bin\Debug\net6.0\NauticalCatchChallenge.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\20. Exam Preparation\02. Business Logic\bin\Debug\net6.0\NauticalCatchChallenge.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\20. Exam Preparation\02. Business Logic\bin\Debug\net6.0\NauticalCatchChallenge.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\20. Exam Preparation\02. Business Logic\bin\Debug\net6.0\NauticalCatchChallenge.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\20. Exam Preparation\02. Business Logic\bin\Debug\net6.0\NauticalCatchChallenge.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\20. Exam Preparation\02. Business Logic\obj\Debug\net6.0\NauticalCatchChallenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\20. Exam Preparation\02. Business Logic\obj\Debug\net6.0\NauticalCatchChallenge.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\20. Exam Preparation\02. Business Logic\obj\Debug\net6.0\NauticalCatchChallenge.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\20. Exam Preparation\02. Business Logic\obj\Debug\net6.0\NauticalCatchChallenge.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\20. Exam Preparation\02. Business Logic\obj\Debug\net6.0\NauticalCatchChallenge.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\20. Exam Preparation\02. Business Logic\obj\Debug\net6.0\NauticalCatchChallenge.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\20. Exam Preparation\02. Business Logic\obj\Debug\net6.0\refint\NauticalCatchChallenge.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\20. Exam Preparation\02. Business Logic\obj\Debug\net6.0\NauticalCatchChallenge.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\20. Exam Preparation\02. Business Logic\obj\Debug\net6.0\NauticalCatchChallenge.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\20. Exam Preparation\02. Business Logic\obj\Debug\net6.0\ref\NauticalCatchChallenge.dll

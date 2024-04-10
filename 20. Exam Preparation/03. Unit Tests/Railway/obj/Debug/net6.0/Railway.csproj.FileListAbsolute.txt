@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\20. Exam Preparation\03. Unit Tests\Railway\bin\Debug\net6.0\Railway.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\20. Exam Preparation\03. Unit Tests\Railway\bin\Debug\net6.0\Railway.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\20. Exam Preparation\03. Unit Tests\Railway\bin\Debug\net6.0\Railway.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\20. Exam Preparation\03. Unit Tests\Railway\bin\Debug\net6.0\Railway.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\20. Exam Preparation\03. Unit Tests\Railway\bin\Debug\net6.0\Railway.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\20. Exam Preparation\03. Unit Tests\Railway\obj\Debug\net6.0\Railway.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\20. Exam Preparation\03. Unit Tests\Railway\obj\Debug\net6.0\Railway.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\20. Exam Preparation\03. Unit Tests\Railway\obj\Debug\net6.0\Railway.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\20. Exam Preparation\03. Unit Tests\Railway\obj\Debug\net6.0\Railway.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\20. Exam Preparation\03. Unit Tests\Railway\obj\Debug\net6.0\Railway.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\20. Exam Preparation\03. Unit Tests\Railway\obj\Debug\net6.0\Railway.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\20. Exam Preparation\03. Unit Tests\Railway\obj\Debug\net6.0\refint\Railway.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\20. Exam Preparation\03. Unit Tests\Railway\obj\Debug\net6.0\Railway.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\20. Exam Preparation\03. Unit Tests\Railway\obj\Debug\net6.0\Railway.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# OOP\20. Exam Preparation\03. Unit Tests\Railway\obj\Debug\net6.0\ref\Railway.dll
